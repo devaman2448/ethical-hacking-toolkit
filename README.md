@@ -49,4 +49,4 @@ This tool is for educational purposes only. It provides a basic password strengt
 
 Author
 
-Created by a Computer Science and Engineering student interested in cybersecurity and ethical hacking.
+Dawit Garuma Desalegn
